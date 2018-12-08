@@ -1,0 +1,12 @@
+----------------------
+|oooooooooooooooooooo|
+|oooooooooooooooooooo|
+|oooooooooooooooooooo|
+|oooooooooooooooooooo|
+----------------------
+
+//        BufferedWriter writer = new BufferedWriter(new FileWriter("src/out.txt"));
+////        writer.write(str);
+
+
+//        writer.close();
